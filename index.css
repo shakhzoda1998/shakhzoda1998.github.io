@@ -1,0 +1,35 @@
+.a{
+	font-size:30pt;
+	color:purple;
+	font-family:Gabriola;
+	background-color:hsl(0, 0%, 71%);
+	text-align: center;
+}
+.b{
+	font-size:20pt;
+	color:#0000ff;
+	font-family:Gabriola;
+	background-color:hsl(0, 0%, 94%);
+	text-align:center;
+}
+.c{
+	font-size:20pt;
+	color:#3cb371;
+	font-family:Gabriola;
+}
+.d{
+	font-size:20pt;
+	color:#3cb371;
+	font-family:Gabriola;
+}
+.e{
+	font-size:20pt;
+	color:#3cb371;
+	font-family:Gabriola;
+	background-color:hsl(0, 0%, 94%);
+}
+.f{
+	font-size:20pt;
+	color:#3cb371;
+	font-family:Gabriola;
+}

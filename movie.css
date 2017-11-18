@@ -1,0 +1,108 @@
+.h1{
+font-size:30pt;
+	color:LightGray;
+	font-family:Times New Roman;
+	background-color:hsl(39, 100%, 50%);
+	text-align: center;
+}
+.p1{
+	font-size:16pt;
+	color:Gray;
+	font-family:Times New Roman;
+}
+.p2{
+	font-size:16pt;
+	color:Gray;
+	font-family:Times New Roman;
+}
+.p3{
+	font-size:16pt;
+	color:Gray;
+	font-family:Times New Roman;
+}
+.p4{
+	font-size:18pt;
+	color:orange;
+	font-family:Times New Roman;
+}
+.h2{
+font-size:30pt;
+	color:DodgerBlue;
+	font-family:Monotype Corsiva;
+	background-color:hsl(0, 100%, 90%);
+	text-align: center;
+}
+.p5{
+	font-size:16pt;
+	color:DodgerBlue;
+	font-family:cambria;
+}
+.p6{
+	font-size:16pt;
+	color:rgb(234, 0, 108);
+	font-family:cambria;
+}
+.p7{
+	font-size:16pt;
+	color:DodgerBlue;
+	font-family:Monotype Corsiva;
+}
+.p8{
+	font-size:18pt;
+	color:rgb(234, 0, 108);
+	font-family:Monotype Corsiva;
+}
+.h3{
+font-size:30pt;
+	color:#3c3c3c;
+	font-family:MV Boli;
+	background-color:#b4b4b4;
+	text-align: center;
+}
+.p9{
+	font-size:16pt;
+	color:rgb(0, 0, 255);
+	font-family:cambria;
+}
+.p10{
+	font-size:16pt;
+	color:blue;
+	font-family:MV Boli;
+}
+.p11{
+	font-size:16pt;
+	color:DodgerBlue;
+	font-family:cambria;
+}
+.p12{
+	font-size:18pt;
+	color:blue;
+	font-family:MV Boli;
+}
+.h4{
+font-size:30pt;
+	color:MediumSeaGreen;
+	font-family:Comic Sans MS;
+	background-color:hsl(0, 100%, 90%);
+	text-align: center;
+}
+.p13{
+	font-size:16pt;
+	color:rgb(0, 0, 255);
+	font-family:Lucida Console;
+}
+.p14{
+	font-size:16pt;
+	color:rgb(0, 0, 255);
+	font-family:Lucida Console;
+}
+.p15{
+	font-size:16pt;
+	color:blue;
+	font-family:Lucida Console;
+}
+.p16{
+	font-size:18pt;
+	color:green;
+	font-family:Comic Sans MS;
+}
